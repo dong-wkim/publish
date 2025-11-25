@@ -1,0 +1,239 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resumes/Resumes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Resumes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dba8fac5e8142840",
+    "type": "split",
+    "children": [
+      {
+        "id": "56d876c5105e99f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a314d91538bfadcb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5d9fc7e1332819d1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#TODO",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "547d872c9c4ac0c3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2409a3d395c10e22",
+    "type": "split",
+    "children": [
+      {
+        "id": "39639b6f6ad805e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43cb351022809b1f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Home.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Home"
+            }
+          },
+          {
+            "id": "5e89007ac68e67f2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Home.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Home"
+            }
+          },
+          {
+            "id": "5ff7fd6e88ed2816",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a9f04a9c029064c3",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "53c68da023a27938",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Home.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Home"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "publish:Publish changes...": false,
+      "webpage-html-export:Export as HTML": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "e7a7b303c61786dc",
+  "lastOpenFiles": [
+    "Resumes/cv.pdf",
+    "Resumes/Resumes.md",
+    "Attachments/Publications/Systematic Review and Meta-Analysis/Systematic Review and Meta-Analysis.md",
+    "Home.md",
+    "Attachments/Publications/Letter to the Editor/Letter to the Editor.md",
+    "Resumes/mso72E6.tmp",
+    "Resumes/mso5B17.tmp",
+    "Resumes/~WRL4051.tmp",
+    "Resumes/~WRD3781.tmp",
+    "Portfolio/Plots/labels.png",
+    "Portfolio/Plots/pie.png",
+    "Portfolio/Plots/donut.png",
+    "Resumes/~WRL3930.tmp",
+    "Resumes/~WRD3544.tmp",
+    "Resumes/~WRL4094.tmp",
+    "Resumes/~WRD3398.tmp",
+    "CHANGELOG.md",
+    "Attachments/Publications/Case Series/Malinowski et al. 2022.pdf",
+    "Attachments/Publications/Case Series/Case Series.md",
+    "Attachments/Publications/Case Series/Malinowski et al. 2022.pdf.crdownload",
+    "Attachments/Publications/Publications.md",
+    "Attachments/Documents/Letters of Recommendation/Letters of Recommendation.md",
+    "Attachments/Documents/Awards/Awards.md",
+    "Attachments/Documents/Documents.md",
+    "Attachments/Untitled/Untitled.md",
+    "Positions/Medical Writer/Medical Writer.md",
+    "Attachments/Publications/Observational Studies/Observational Studies.md",
+    "Attachments/Publications/Systematic Review and Meta-Analysis/Untitled/Untitled.md",
+    "Attachments/Publications/Systematic Review and Meta-Analysis/Untitled 2/Untitled 2.md",
+    "Attachments/Publications/Systematic Review and Meta-Analysis/Untitled 1/Untitled 1.md",
+    "Attachments/Publications/Untitled/Untitled.md",
+    "Attachments/Publications/Technical Note/Technical Note.md",
+    "Resumes/Untitled 5/Untitled 5.md",
+    "Resumes/Untitled 4/Untitled 4.md",
+    "Resumes/Untitled 3/Untitled 3.md",
+    "Resumes/Untitled 2/Untitled 2.md",
+    "Resumes/Untitled 1/Untitled 1.md",
+    "Resumes/Untitled/Untitled.md",
+    "Attachments/Attachments.md",
+    "Roadmap.canvas",
+    "Portfolio/Plots/Forest Plots/vas.svg",
+    "Portfolio/Plots/Forest Plots/h_lsi_isokinetic_180.svg",
+    "Portfolio/Plots/Forest Plots/h_lsi_isokinetic_60.svg",
+    "Examples/Obsidian Help/zh/附件/图标/obsidian-icon-vault-switcher.svg",
+    "Examples/Obsidian Help/zh/附件/图标/obsidian-icon-side-bar-right.svg",
+    "Examples/Obsidian Help/zh/附件/图标/obsidian-icon-side-bar-left.svg",
+    "Examples/Obsidian Help/zh/附件/图标/lucide-x.svg"
+  ]
+}

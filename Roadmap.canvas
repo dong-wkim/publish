@@ -1,0 +1,159 @@
+{
+	"nodes":[
+		{
+			"id":"b150545d64cd8373",
+			"type":"text",
+			"text":"- [x] Create CV/Resume",
+			"styleAttributes":{},
+			"x":-220,
+			"y":-260,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"1186309cd570677e",
+			"type":"text",
+			"text":"- [x] Write Cover Letter",
+			"styleAttributes":{},
+			"x":-220,
+			"y":-180,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"72eded64fc50f324",
+			"type":"text",
+			"text":"- [x] Create a Portfolio",
+			"styleAttributes":{},
+			"x":-220,
+			"y":-100,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"500d0dea4c555a5f",
+			"type":"text",
+			"text":"- [ ] Search for open positions",
+			"styleAttributes":{},
+			"x":-220,
+			"y":-20,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"4dcd5ab79430b1b2",
+			"type":"text",
+			"text":"**November 2025**",
+			"styleAttributes":{},
+			"x":-460,
+			"y":-260,
+			"width":220,
+			"height":380
+		},
+		{
+			"id":"1167811df01609ec",
+			"type":"text",
+			"text":"- [ ] Apply to positions",
+			"styleAttributes":{},
+			"x":-220,
+			"y":60,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"a5a3180f5c305162",
+			"type":"text",
+			"text":"**December 2025**",
+			"styleAttributes":{},
+			"x":-460,
+			"y":140,
+			"width":220,
+			"height":60
+		},
+		{
+			"id":"e42731cd0f95e37d",
+			"type":"text",
+			"text":"**January 2026**",
+			"styleAttributes":{},
+			"x":-460,
+			"y":220,
+			"width":220,
+			"height":180
+		},
+		{
+			"id":"6414209c784c8b7b",
+			"type":"text",
+			"text":"- [ ] Interviews, etc.",
+			"styleAttributes":{},
+			"x":-220,
+			"y":140,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"d5f539b90f133e3f",
+			"type":"text",
+			"text":"- [ ] Start new job",
+			"styleAttributes":{},
+			"x":-220,
+			"y":220,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"cab9cb466ad01696",
+			"type":"text",
+			"text":"- [ ] Create and execute 1-2 month study plan for medical polish exam.",
+			"styleAttributes":{},
+			"x":-220,
+			"y":295,
+			"width":260,
+			"height":185
+		},
+		{
+			"id":"bf2991f2e685cee0",
+			"type":"text",
+			"text":"**February 2026**",
+			"styleAttributes":{},
+			"x":-460,
+			"y":420,
+			"width":220,
+			"height":140
+		},
+		{
+			"id":"1531b081d1a6aa83",
+			"type":"text",
+			"text":"- [ ] Apply for Staż",
+			"styleAttributes":{},
+			"x":-220,
+			"y":500,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"d3d3612a87398ed8",
+			"type":"text",
+			"text":"- [ ] Start staż, switch to part-time job.",
+			"styleAttributes":{},
+			"x":-220,
+			"y":580,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"54a042d7694b10db",
+			"type":"text",
+			"text":"**March 2026**",
+			"styleAttributes":{},
+			"x":-460,
+			"y":580,
+			"width":220,
+			"height":60
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

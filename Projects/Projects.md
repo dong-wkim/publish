@@ -1,0 +1,12 @@
+---
+cssclasses:
+  - list-cards
+---
+- [[Forest Plot Generator]]
+	- Custom R function to generate forest plots from continuous and dichotomous datasets.
+- [[Medical Illustrations]]
+	- Publish medical illustrations.
+- [[Lattice Forest Plot Generator]]
+	- Custom R function to generate a summary forest plot of multiple outcomes in case there are too many forest plots to publish into one article (as usually is the case).
+- [[Literature Search Results Deduplication]]
+	- Deduplication is most often error-prone, especially when using Zotero, Mendeley, and EndNote. Manual deduplication is time-consuming and is also prone to human error. This python script combines manual selection of columns, and automates deduplication with a prototype error rate of 0%. 

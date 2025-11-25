@@ -1,0 +1,9 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[publish]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>site-lib/media/favicon.png</url><title>publish</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 21 Nov 2025 18:08:37 GMT</lastBuildDate><atom:link href="site-lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 21 Nov 2025 18:08:35 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Roadmap]]></title><description><![CDATA[
+Create CV/Resume Write Cover Letter Create a Portfolio Search for open positions
+November 2025
+Apply to positions
+December 2025January 2026
+Interviews, etc. Start new job Create and execute 1-2 month study plan for medical polish exam.
+February 2026
+Apply for Staż Start staż, switch to part-time job.
+March 2026]]></description><link>roadmap.html</link><guid isPermaLink="false">Roadmap.canvas</guid><pubDate>Fri, 21 Nov 2025 18:08:20 GMT</pubDate></item><item><title><![CDATA[resume]]></title><link>resume.html</link><guid isPermaLink="false">Resumes/resume.html</guid><pubDate>Tue, 18 Nov 2025 13:19:49 GMT</pubDate></item></channel></rss>

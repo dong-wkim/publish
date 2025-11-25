@@ -1,0 +1,51 @@
+---
+cssclasses:
+  - list-cards
+---
+%% Begin Waypoint %%
+- [[~$jobs.xlsx]]
+- **Assets**
+	- **Icons**
+		- [[artromedical.png]]
+		- [[bc.png]]
+		- [[bellevue.png]]
+		- [[github.svg]]
+		- [[google_scholar.png]]
+		- [[google_scholar.svg]]
+		- [[ieba-wg.png]]
+		- [[linkedin.png]]
+		- [[linkedin.svg]]
+		- [[orcid.png]]
+		- [[orcid.svg]]
+		- [[osf.png]]
+		- [[osf.svg]]
+		- [[researchgate.png]]
+		- [[researchgate.svg]]
+		- [[ssig.png]]
+		- [[stn.png]]
+		- [[uj.png]]
+		- [[upwork.png]]
+	- **Images**
+		- [[donut.png]]
+		- [[studies_published.png]]
+	- [[portrait.png]]
+- **[[Documents]]**
+	- **[[Awards]]**
+		- [[Rector's Scholarship (EN).pdf]]
+		- [[Stypendium Rektora (PL).pdf]]
+	- **[[Letters of Recommendation]]**
+		- [[anbefaling-Kim-Dong-Woon-columbia.pdf]]
+		- [[Pękala_J_04_07_2022-1.pdf]]
+	- **Presentations**
+		- [[ESSKA ePoster1.pdf]]
+		- [[ESSKA ePoster2.pdf]]
+	- **Student Scientific Society**
+		- [[INFORMATOR-SKN-2024-2025-STN-UJ-CM.pdf]]
+		- [[SSG_clinical_anatomy_confirmation.pdf]]
+		- [[SSG_clinical_anatomy.pdf]]
+		- [[SSG_orthopaedics.pdf]]
+- [[jobs.xlsx]]
+- **[[Publications]]**
+- [[roadmap.html]]
+
+%% End Waypoint %%

@@ -1,0 +1,5 @@
+- [x] create a separate repository for R scripts on GitHub so that others who use the scripts can install and load them in R console with one line of code instead of downloading from github.com and copy-pasting. #TODO
+- [ ] CV/Resume with ATS words and phrases - final revision version
+- [x] LinkedIn
+- [x] Portfolio on personal website
+- [x] Up-Work profile
